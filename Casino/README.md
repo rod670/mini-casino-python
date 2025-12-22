@@ -5,7 +5,7 @@
 ## 🚀 Funcionalidades del Proyecto
 * **Juego de Dados:** Gana si sumas 7 u 11.
 * **Adivina el Número:** Prueba tu suerte contra la máquina (1 al 10).
-* **Gestión de Saldo:** Puedes depositar, apostar y retirar.
+* **Gestión de Saldo:** Puedes apostar y retirar.
 * **Cajero Automático:** Al retirar, el sistema calcula la menor cantidad de billetes posible (Algoritmo Voraz).
 * **Validaciones:** El sistema evita errores si el usuario ingresa textos en lugar de números o intenta apostar dinero que no tiene.
 
