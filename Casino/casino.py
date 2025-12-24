@@ -9,7 +9,7 @@ while True:
     print("3:_ Ver saldo")
     print("4._ Retirar saldo")
     print("5._ Salir del casino")
-    opcion = input("Elija una opción paea jugar: ")
+    opcion = input("Elija una opción para jugar: ")
     if opcion.isdigit():
         opcion = int(opcion)
         if opcion == 5: break
